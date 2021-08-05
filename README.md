@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning how to build full stack applications using Java technologies 
 - 📫 email: israadam1993@gmail.com 
-- Portfolio: israosman.github.io/portfolio-site/
+- Portfolio: https://israosman.github.io/portfolio-site/  
 
 <!---
 IsraOsman/IsraOsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
