@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsraOsman
 - 👀 I’m interested in Software development 
-- 🌱 Skills: HTML, CSS, JavaScript, Java, Spring, SQL
+- 🌱 Skills: HTML, CSS, JavaScript, Java, JSP,Spring MVC, SQL
 - 🌱 I’m currently learning how to build Applicaitions in the cloud (AWS) 
 - 📫 email: israadam1993@gmail.com 
 - Portfolio: https://israosman.github.io/portfolio-site/  
