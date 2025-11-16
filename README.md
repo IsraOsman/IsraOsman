@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsraOsman
-- 👀 I’m a Software Engineer
+-  I’m a Software Engineer
 
 <!---
 IsraOsman/IsraOsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
