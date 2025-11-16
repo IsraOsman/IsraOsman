@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @IsraOsman
-- 👀 I’m interested in Software development 
-- 🌱 Skills: HTML, CSS, JavaScript, Java, JSP,Spring MVC, SQL
-- 🌱 I’m currently learning how to build Applicaitions in the cloud 
-- 📫 email: israadam1993@gmail.com 
-- Portfolio: https://israosman.github.io/portfolio-site/  
+- 👀 I’m a Software Engineer
 
 <!---
 IsraOsman/IsraOsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
